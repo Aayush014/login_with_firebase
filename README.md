@@ -10,9 +10,17 @@ This project is a Flutter application demonstrating a signup page using Firebase
 
  ## Photo
    <table align="center">
+    <tr>
     <td><img src="https://github.com/user-attachments/assets/ef9b744b-e26d-4d41-b128-25aef2abc966" alt="Image 2" width="300" height="auto"></td>
      <td><video src ="https://github.com/user-attachments/assets/babc47b6-b2ed-4d4c-aeaa-7b52fce85159"></video></td>
+    </tr>
+   
   </table>  
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/120503af-7893-4878-9597-86f17678ab37" alt="Image 2" width="auto" height="auto"></td>
+    </tr>
+  </table>
 
 ## Getting Started
 
